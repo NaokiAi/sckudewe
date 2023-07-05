@@ -90,6 +90,8 @@ Pembuat Robot Ini
 Cmd: ${prefix}script
 Untuk Mendapatkan Script
 
+Terimakasih Telah menggunakan Bot Saya
+
 Thanks To
 Allah Swt
 Atha (Penyedia Panel)
@@ -98,7 +100,8 @@ Ibu Bapak (Support)
 Naoki (Saya Sendiri)
 Teman Teman TeamCao
 LolHuman (Penyedia API)
-Bot Di Buat Oleh @Wisnu`)
+Bot Di Buat Oleh @Wisnu
+@WhatsApp`)
           break;
           case 'sound1':case 'sound2':
 case 'sound3':case 'sound4':case 'sound5':case 'sound6':
@@ -118,7 +121,7 @@ case 'sound55':case 'sound56':case 'sound57':case 'sound58':
 case 'sound59':case 'sound60':case 'sound61':case 'sound62':
 case 'sound63':case 'sound64':case 'sound65':case 'sound66':
 case 'sound67':case 'sound68':case 'sound69':case 'sound70':
-case 'sound71':case 'sound72':case 'sound73':case 'sound74':
+case 'sound71':case 'sound7
 if (cekUser("id", sender) == null) return reply(mess.OnlyUser)
 reply(mess.wait)
 var inicdd = await getBuffer(`https://github.com/saipulanuar/Api-Github/raw/main/sound/${command}.mp3`)
